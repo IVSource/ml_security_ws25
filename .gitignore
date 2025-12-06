@@ -210,3 +210,4 @@ __marimo__/
 # Data for NN model training
 data/
 *.pt
+Exercise 3/mls_ws25_exercise_3d_spam_email_classification_local.ipynb
